@@ -14,8 +14,8 @@ input,textarea{resize:none;}
 		padding:2em 3em;
 	}
 	aside{
-		position:fixed;
-		left:62%;
+		float:left;
+		right:62%;
 		top:0;
 		right:0;
 		height:100%;
