@@ -15,15 +15,6 @@
 </head>
 
 <body class="{{ layout.class }}">
-
-<div class="main">
-	{{ content }}
-
-	<footer>
-		<p>&copy; Since 2012</p>
-	</footer>
-</div>
-
 <aside>
 	<h2><a href="/">{{ site.name }}</a><a href="/feed.xml" class="feed-link" title="Subscribe"><i class="fa fa-rss-square"></i></a></h2>
 	
@@ -73,7 +64,13 @@
 		</p>
 	</div>
 </aside>
+<div class="main">
+	{{ content }}
 
+	<footer>
+		<p>&copy; Since 2012</p>
+	</footer>
+</div>
 <script src="http://elfjs.qiniudn.com/code/elf-0.5.0.min.js"></script>
 <script src="http://yandex.st/highlightjs/7.3/highlight.min.js"></script>
 
