@@ -9,8 +9,8 @@ desc: Life is flood current,no one can resist it.
 
 custom:
     category:
-        default: Javascript
-        another: Css
+        Javascript: Javascript
+        Css: Css
     categories:
       - name:  Javascript
         title: Javascript
