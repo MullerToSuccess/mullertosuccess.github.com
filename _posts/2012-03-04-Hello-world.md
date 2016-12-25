@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Hello world!
-category: css
+title: 第一篇.
+category: Css
 ---
 
 {% include references.md %}
