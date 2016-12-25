@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello world!
-category: default
+category: css
 ---
 
 {% include references.md %}

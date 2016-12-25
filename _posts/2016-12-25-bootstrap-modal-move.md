@@ -1,4 +1,10 @@
+---
+layout: post
+title: Bootstrap-modal拖动
+category: Javascript
+---
 ###Modal move函数
+----------------------
 	(function(){
         function moveModal($this){
             var $head = $this.find('.modal-header');
