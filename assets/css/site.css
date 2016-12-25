@@ -10,14 +10,13 @@ input,textarea{resize:none;}
 @media screen and (min-width:1024px) {
 	.main{
 		position:relative; zoom:1;
-		width:75%;
-		height:100%;
+		width:80%;
 		padding:2em 3em;
 		float:right;
 	}
 	aside{
 		float:left;
-		width:25%;
+		width:20%;
 		top:0;
 		right:0;
 		height:100%;
