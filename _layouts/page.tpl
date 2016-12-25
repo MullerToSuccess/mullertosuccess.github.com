@@ -26,17 +26,16 @@
 	</nav>
 	
 	<form action="/search/" class="block block-search">
-		<h3>找什么?</h3>
+		<h3>Search for something</h3>
 		<p><input type="search" name="q" placeholder="Search" /></p>
 	</form>
 	
 	<div class="block block-about">
-		<h3>我在这儿呢~</h3>
+		<h3>My picture</h3>
 		<figure>
 			{% if site.meta.author.gravatar %}<img src="{{ site.meta.gravatar}}{{ site.meta.author.gravatar }}?s=48" />{% endif %}
 			<figcaption><strong>{{ site.meta.author.name }}</strong></figcaption>
 		</figure>
-		<p>没让你失望吧?</p>
 	</div>
 	
 	<div class="block block-license">
@@ -46,8 +45,6 @@
 	<div class="block block-thank">
 		<h3>Powered by</h3>
 		<p>
-			<a href="http://disqus.com/" target="_blank">Disqus</a>,
-			<a href="http://elfjs.com/" target="_blank">elf+js</a>,
 			<a href="https://github.com/" target="_blank">GitHub</a>
 		</p>
 	</div>
