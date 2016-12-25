@@ -13,7 +13,8 @@ custom:
         Css: Css
         Node: Node
         Vue: Vue
-        感悟: 感悟
+        随笔: 随笔
+        诗: 诗
     categories:
       - name:  Javascript
         title: Javascript
@@ -27,9 +28,11 @@ custom:
       - name:  Vue
         title: Vue        
         
-      - name:  感悟
-        title: 感悟 
+      - name:  随笔
+        title: 随笔 
         
+      - name:  诗
+        title: 诗 
 
     scrollingLoadCount: 2                          # 滚屏自动加载文章数量，“0”为关闭
 
