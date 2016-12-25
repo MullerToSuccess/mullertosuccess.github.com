@@ -9,14 +9,14 @@ desc: Life is flood current,no one can resist it.
 
 custom:
     category:
-        default: Default Category
-        another: Another Category
+        default: Javascript
+        another: Css
     categories:
-      - name:  default
-        title: Default Category
+      - name:  Javascript
+        title: Javascript
 
-      - name:  another
-        title: Another Category
+      - name:  Css
+        title: Css
 
     scrollingLoadCount: 2                          # 滚屏自动加载文章数量，“0”为关闭
 
