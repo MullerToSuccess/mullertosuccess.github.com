@@ -11,12 +11,25 @@ custom:
     category:
         Javascript: Javascript
         Css: Css
+        Node: Node
+        Vue: Vue
+        感悟: 感悟
     categories:
       - name:  Javascript
         title: Javascript
 
       - name:  Css
-        title: Css
+        title: Css 
+        
+      - name:  Node
+        title: Node 
+        
+      - name:  Vue
+        title: Vue        
+        
+      - name:  感悟
+        title: 感悟 
+        
 
     scrollingLoadCount: 2                          # 滚屏自动加载文章数量，“0”为关闭
 
