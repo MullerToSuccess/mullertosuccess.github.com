@@ -6,12 +6,17 @@ body{
  	color:#555;
 }
 a{margin:0 2px; color:#06c; text-decoration:none;}
-a:hover{
+aside a:hover{
+	corlor:#000;
+}
+article a:hover{
 	color: #fff; 	
-	transition: color 2s;
-    -moz-transition: color 2s; /* Firefox 4 */
-    -webkit-transition: color 2s; /* Safari 和 Chrome */
-    -o-transition: color 2s; /* Opera */
+}
+a{
+	transition: color .5s;
+    -moz-transition: color .5s; /* Firefox 4 */
+    -webkit-transition: color .5s; /* Safari 和 Chrome */
+    -o-transition: color .5s; /* Opera */
 }
 h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{margin:0;}
 img{border:0;}
