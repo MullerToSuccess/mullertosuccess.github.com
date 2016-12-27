@@ -6,9 +6,6 @@ body{
  	color:#555;
 }
 a{margin:0 2px; color:#06c; text-decoration:none;}
-aside a:hover{
-	corlor:#000;
-}
 article a:hover{
 	color: #fff; 	
 }
@@ -47,6 +44,7 @@ aside{background:#eee; font-size:75%;}
 aside h2{margin:1em 0;}
 aside .feed-link{margin-left:0.5em; color: #d81;}
 aside nav ul{list-style:none; line-height:1.5em;}
+aside nav ul a:hover{color: #000}
 aside .block{max-width:300px; margin:1.5em 0; line-height:1.5em;}
 aside .block h3{margin:.5em 0;}
 aside .block a{margin:0;}
