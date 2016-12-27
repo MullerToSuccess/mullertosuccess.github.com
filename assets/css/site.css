@@ -105,5 +105,4 @@ article .gist .line-data{min-width: 100%;}
 #cse .gs-result>*{padding:0;}
 #cse .gsc-cursor-box{margin:1em 0;}
 #cse .gs-no-results-result .gs-snippet{margin:0; border:none; background:none;}
-
-.headImg{display: inline;}
+article h2:before{content:'/img/github32.jpg';}
