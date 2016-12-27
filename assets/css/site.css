@@ -105,6 +105,8 @@ article .gist .line-data{min-width: 100%;}
 #cse .gs-result>*{padding:0;}
 #cse .gsc-cursor-box{margin:1em 0;}
 #cse .gs-no-results-result .gs-snippet{margin:0; border:none; background:none;}
-article h2::before{
-	content: url(/img/github32.jpg);
+article img{vertical-align:middle;}
+article h2::before{display:inline-block; width:0; height:100%; content:"center"; vertical-align:middle; overflow:hidden;}
+article h2:hover{
+	background:red;
 }
