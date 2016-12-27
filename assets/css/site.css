@@ -111,7 +111,6 @@ article .gist .line-data{min-width: 100%;}
 #cse .gs-no-results-result .gs-snippet{margin:0; border:none; background:none;}
 article h2::before{
 	display:inline-block; 
-	width:0; 
 	height:100%; 
 	content:url('img/github32.jpg'); 
 	vertical-align:middle; 
