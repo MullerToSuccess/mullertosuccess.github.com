@@ -28,7 +28,6 @@ input,textarea{resize:none;}
 header{font-size:80%;}
 header h1 .minor{color:#999; font-weight:normal;}
 header .additional{font-size:90%; color:#ccc;}
-
 aside{background:#eee; font-size:75%;}
 aside h2{margin:1em 0;}
 aside .feed-link{margin-left:0.5em; color: #d81;}
@@ -106,3 +105,5 @@ article .gist .line-data{min-width: 100%;}
 #cse .gs-result>*{padding:0;}
 #cse .gsc-cursor-box{margin:1em 0;}
 #cse .gs-no-results-result .gs-snippet{margin:0; border:none; background:none;}
+
+.headImg{display: inline-block;}
