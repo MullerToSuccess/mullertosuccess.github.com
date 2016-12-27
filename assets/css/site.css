@@ -124,4 +124,4 @@ article h2::before{
 	content:url('img/github32.jpg'); 
 	/*vertical-align:middle; */
 }
-.headImg{width: 40px;height:40px;background: #ccc};
+.headImg{width: 40px;height:40px;background: #ccc;float: left;};
