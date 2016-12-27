@@ -8,10 +8,10 @@ body{
 a{margin:0 2px; color:#06c; text-decoration:none;}
 article a:hover{
 	text-decoration: underline;	
-	transition: text-decoration .5s;
-    -moz-transition: text-decoration .5s; /* Firefox 4 */
-    -webkit-transition: text-decoration .5s; /* Safari 和 Chrome */
-    -o-transition: text-decoration .5s; /* Opera */
+	transition: text-decoration 2s;
+    -moz-transition: text-decoration 2s; /* Firefox 4 */
+    -webkit-transition: text-decoration 2s; /* Safari 和 Chrome */
+    -o-transition: text-decoration 2s; /* Opera */
 }
 a{
 	transition: color .5s;
@@ -128,4 +128,4 @@ article h2::before{
 	content:url('img/github32.jpg'); 
 	/*vertical-align:middle; */
 }
-.headImg{width: 40px;height:40px;background: #ccc;float: left;padding:4px;};
+.headImg{width: 40px;height:40px;background: #fff;float: left;padding:4px;margin-right: 15px;vertical-align: middle;};
