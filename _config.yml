@@ -1,5 +1,5 @@
 safe: false
-permalink: /posts/:title.html
+permalink: /2016/:title.html
 exclude:
   - README.md
 

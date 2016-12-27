@@ -32,12 +32,13 @@
 	</form>
 	
 	<div class="block block-about">
-		<h3>My picture</h3>
+		<h3>About Me</h3>
 		<figure>
 	<!-- 	#	{% if site.meta.author.gravatar %}<img src="{{ site.meta.gravatar}}{{ site.meta.author.gravatar }}?s=48" />{% endif %}
 		#	<figcaption><strong>{{ site.meta.author.name }}</strong></figcaption>
  -->
 		<img src='/img/github32.jpg'>
+		<a><img src=""></a>
 		</figure>
 	</div>
 	

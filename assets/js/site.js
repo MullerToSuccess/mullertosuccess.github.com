@@ -74,6 +74,7 @@ var site = {
 			});
 		},
 		
+		onGCSEReady: function() {
 			var customSearchControl = new google.search.CustomSearchControl(site.VAR_GOOGLE_CUSTOM_SEARCH_ID, {});
 			customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
 			
