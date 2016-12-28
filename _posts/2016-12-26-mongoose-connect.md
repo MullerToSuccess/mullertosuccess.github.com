@@ -3,7 +3,6 @@ layout: post
 title: Mongoose操作数据库
 category: Javascript
 ---
-###Mongoose操作数据库:
 	var Schema = mongoose.Schema;
 	var userScheMa = new Schema({ //数据属性模型：定义数据结构,无法直接操作数据库
 	userid: String,

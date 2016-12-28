@@ -32,7 +32,7 @@ custom:
         title: 随笔 
         
       - Poet:  Poet
-        Poet: Poet 
+        title: Poet 
 
     scrollingLoadCount: 2                          # 滚屏自动加载文章数量，“0”为关闭
 
