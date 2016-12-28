@@ -14,7 +14,7 @@ custom:
         Node: Node
         Vue: Vue
         随笔: 随笔
-        诗: 诗
+        Poet: Poet
     categories:
       - name:  Javascript
         title: Javascript
@@ -31,8 +31,8 @@ custom:
       - name:  随笔
         title: 随笔 
         
-      - name:  诗
-        title: 诗 
+      - Poet:  Poet
+        Poet: Poet 
 
     scrollingLoadCount: 2                          # 滚屏自动加载文章数量，“0”为关闭
 
