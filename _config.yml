@@ -1,6 +1,6 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
+title: Muller
+subtitle: Muller's Blog
 welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
 description: Vno Jekyll is a port of my Ghost theme vno.
 creator: <a href="http://onev.cat">@onevcat</a>
@@ -38,7 +38,7 @@ comment:
 # Social
 social:
     weibo: onevcat
-    github: onevcat
+    github: http://github.com/MullerToSuccess
     twitter: onevcat
     gplus: 107108267983477358170
     mail: onev@onevcat.com
