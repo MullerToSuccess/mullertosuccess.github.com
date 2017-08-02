@@ -1,3 +1,9 @@
+---
+layout: post
+title: Node 中Eventproxy的使用
+date: 2017-06-10 15:32:24.000000000 +09:00
+---
+
 ###Node 之 Eventproxy
 
 ####js计数器写异步:
