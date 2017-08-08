@@ -13,7 +13,7 @@ permalink: /:year/:month/:title/
 highlighter: rouge
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: red
+cover_color: slate
 
 # The blog button should not be removed.
 blog_button:
@@ -37,7 +37,7 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
+    weibo: _被风追的少年
     github: MullerToSuccess
     gplus: 107108267983477358170
     mail: greatpage1@gmail.com
