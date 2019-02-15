@@ -1,7 +1,7 @@
 # Basic
-title: Muller
-subtitle: Muller's Blog
-welcome_message: Hello Friend.
+title: Muller学习记录
+subtitle: 
+welcome_message: 学习记录.
 description: 贾柯的博客记录.
 creator: <a href="http://onev.cat">@onevcat</a>
 
@@ -17,7 +17,7 @@ cover_color:
 
 # The blog button should not be removed.
 blog_button:
-    title: Blog
+    title: 记录
     description: Visit blog
 
 # Navigation buttons in the front page.
